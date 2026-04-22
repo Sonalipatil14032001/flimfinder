@@ -18,10 +18,6 @@
 |---|---|
 | ![Parasite](assets/Parasite.png) | ![Pushpa](assets/Pushpa.png) |
 
-| RRR (2022) | KGF Chapter 2 |
-|---|---|
-| ![RRR](assets/RRR.png) | ![KGF](assets/Kgf.png) |
-
 ---
 
 ## 🧠 How It Works
