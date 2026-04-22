@@ -1,0 +1,13 @@
+backend/venv/
+backend/__pycache__/
+backend/stage1_retrieval/__pycache__/
+backend/stage2_ranking/__pycache__/
+backend/data/__pycache__/
+backend/.env
+backend/model/
+backend/data/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+*.pyc
+*.pkl
