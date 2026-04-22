@@ -57,15 +57,6 @@ LightGCN (He et al., 2020) simplifies Graph Convolutional Networks by removing f
 - **Edges:** User-movie rating interactions
 - **Node features:** Genre one-hot + Language one-hot + Popularity + Vote average (26-dim)
 
-**Propagation rule:**
-```
-E^(k+1) = D^(-1/2) · A · D^(-1/2) · E^(k)
-```
-
-**Final embedding** = mean pooling across all K layers (including layer 0):
-```
-E_final = (1/K+1) Σ E^(k)
-```
 
 **Training:** BPR (Bayesian Personalised Ranking) loss — maximises score(user, positive_item) - score(user, negative_item)
 
