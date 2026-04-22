@@ -1,4 +1,4 @@
-# ◈ FilmFinder
+# FilmFinder
 ### Two-Stage Movie Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
@@ -16,7 +16,11 @@
 
 | Parasite (2019) | Pushpa: The Rise |
 |---|---|
-| ![Parasite Results](assets/parasite.png) | ![Pushpa Results](assets/pushpa.png) |
+| ![Parasite](assets/Parasite.png) | ![Pushpa](assets/Pushpa.png) |
+
+| RRR (2022) | KGF Chapter 2 |
+|---|---|
+| ![RRR](assets/RRR.png) | ![KGF](assets/Kgf.png) |
 
 ---
 
